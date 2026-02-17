@@ -3,9 +3,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2600&color=00D9FF&center=true&vCenter=true&width=800&lines=Investigacao+de+Incidentes;Correlacao+de+Eventos+de+Seguranca;Monitoramento+de+Ameacas;Analise+de+logs;Mentalidade+SOC;Evolucao+Continua+em+Cybersecurity" />
 </p>
----
-# 👋 Olá, eu sou a Stéfany
----
 
 ## 🧭 Sobre mim
 
