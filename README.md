@@ -10,6 +10,8 @@
 
 Analista de TI em transição para a área de **Cybersecurity**, com foco em desenvolver habilidades práticas relacionadas a monitoramento e análise de eventos de segurança.
 
+Aprofundando conhecimentos em SOC e defesa digital.
+
 Atualmente estudo e aplico conceitos como:
 
 * Análise de logs
@@ -17,11 +19,11 @@ Atualmente estudo e aplico conceitos como:
 * Fundamentos de SOC
 * Automação simples com Python
 
-Este perfil é utilizado para armazenar projetos práticos desenvolvidos durante meu aprendizado.
+⚠️ Este perfil é utilizado para armazenar projetos práticos desenvolvidos durante meu aprendizado. ⚠️
 
 ---
 
-## 🚀 Projeto em destaque (pastado recentemente)
+## 🚀 Projeto em destaque (postado recentemente)
 
 ### 🔐 Análise de Logs de Segurança
 
