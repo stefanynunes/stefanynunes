@@ -29,6 +29,4 @@
 
 ---
 
-## 📡 Conexão
 
-LinkedIn: (coloque aqui depois)
