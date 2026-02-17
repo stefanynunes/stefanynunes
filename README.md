@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🕶️ Hello, traveler...
 
-<!--
-**stefanynunes/stefanynunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+> Inicializando perfil...
+> Carregando logs...
+> Analisando padrões suspeitos...
+> Acesso concedido.
+```
 
-Here are some ideas to get you started:
+## 👩‍💻 Quem sou eu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Analista de TI em transição para **Cybersecurity**
+🛰️ Explorando análise de logs, SOC e defesa digital
+🐍 Criando projetos Python voltados à detecção de anomalias
+
+---
+
+## ⚙️ Status
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF9C\&size=18\&center=true\&vCenter=true\&width=500\&lines=Scanning+logs...;Detecting+patterns...;Monitoring+threats...;Learning+never+stops...)
+
+---
+
+## 🧭 Missão Atual
+
+* Investigar padrões suspeitos
+* Evoluir em segurança defensiva
+* Construir projetos práticos
+
+---
+
+## 📡 Conexão
+
+LinkedIn: (coloque aqui depois)
