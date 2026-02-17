@@ -1,12 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:001F3F&height=2&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:00FFAA&height=3&section=header"/>
+</p>
+
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2600&color=00D9FF&center=true&vCenter=true&width=800&lines=Investigacao+de+Incidentes;Correlacao+de+Eventos+de+Seguranca;Monitoramento+de+Ameacas;Analise+de+logs;Mentalidade+SOC;Evolucao+Continua+em+Cybersecurity" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:001F3F&height=2&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:00FFAA&height=3&section=header"/>
+</p>
 
 
-Hoje atuo como Analista de Suporte de TI Pleno (N2), no momento estou direcionando a minha transição para a área de Centro de Operações de Segurança (SOC) e Segurança de Dados.
+
+Hoje atuo como Analista de Suporte de TI Pleno (N2), no momento estou direcionando a minha transição para a área de Centro de Operações de Segurança (SOC) e Proteção de Dados.
 
 Aprofundando conhecimentos em SOC e defesa digital.
 
