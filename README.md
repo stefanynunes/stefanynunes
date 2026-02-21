@@ -11,55 +11,35 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:00FFAA&height=3&section=header"/>
 </p>
 
+## 👩🏻‍💻 Sobre mim
 
-
-Hoje atuo como Analista de Suporte de TI Pleno (N2), no momento estou direcionando a minha transição para a área de Centro de Operações de Segurança (SOC) e Proteção de Dados.
-
-Aprofundando conhecimentos em SOC e defesa digital.
-
-Atualmente estudo e aplico conceitos como:
-
-* Análise de logs
-* Detecção de comportamentos anômalos
-* Fundamentos de SOC
-* Automação simples com Python
-
-⚠️ Este perfil é utilizado para armazenar projetos práticos desenvolvidos durante meu aprendizado. ⚠️
+Hoje atuo como Analista de Suporte de TI Pleno (N2), no momento estou direcionando a minha transição para a área de Centro de Operações de Segurança (SOC) e Proteção de Dados, aplicando na prática conceitos de monitoramento, análise de eventos e detecção de comportamentos suspeitos.
 
 ---
 
-## 🚀 Projeto em destaque (postado recentemente)
+## 🛡️ Foco Técnico
 
-### 🔐 Análise de Logs de Segurança
-
-Simulação de análise de registros de acesso com o objetivo de identificar padrões suspeitos.
-
-**Conceitos aplicados:**
-
-* Processamento de dados com Python
-* Identificação de falhas de autenticação
-* Detecção de possíveis ataques de força bruta
-* Geração de alertas básicos
-* Exportação para análise posterior
-
-Este projeto foi desenvolvido como parte do meu aprendizado em Python e segurança de dados, aplicando conceitos estudados na prática e pensando um pouco fora da caixinha.
+- Análise e correlação de logs
+- Identificação de padrões anômalos
+- Fundamentos operacionais de SOC
+- Automação com Python aplicada a segurança
+- Visualização de dados para monitoramento (Power BI)
 
 ---
 
-## 🧰 Ferramentas utilizadas
+## 🚀 Projetos Práticos
 
-* Python
-* Pandas
-* Numpy
-* GitHub
-* Notion (documentação de portfólio)
+Este perfil é dedicado ao desenvolvimento e documentação de projetos voltados para:
 
----
-
-## 📚 Em desenvolvimento
-
-* Aprofundamento em análise de eventos de segurança
-* Aprimoramento em automação de detecção
-* Expansão do portfólio prático
+- Detecção de anomalias
+- Processamento de logs
+- Simulações de cenários de segurança
+- Estruturação de monitoramento
 
 ---
+
+## 📈 Em evolução
+
+- Aprofundamento em análise de eventos de segurança
+- Aprimoramento de scripts para detecção automatizada
+- Expansão do portfólio técnico voltado a Segurança da informação
