@@ -13,7 +13,7 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Hoje atuo como Analista de Suporte de TI Pleno (N2), no momento estou direcionando a minha transição para a área de Centro de Operações de Segurança (SOC) e Proteção de Dados, aplicando na prática conceitos de monitoramento, análise de eventos e detecção de comportamentos suspeitos.
+Hoje atuo como Analista de Suporte de Sistemas Pleno (N2), no momento estou direcionando a minha transição para a área de Centro de Operações de Segurança (SOC) e Proteção de Dados, aplicando na prática conceitos de monitoramento, análise de eventos e detecção de comportamentos suspeitos.
 
 ---
 
